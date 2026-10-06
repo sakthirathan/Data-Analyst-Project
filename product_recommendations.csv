@@ -1,0 +1,16 @@
+Product,Recommended_Product,Orders_Together
+Bread,Milk,9
+Bread,Butter,8
+Bread,Eggs,6
+Milk,Butter,10
+Milk,Bread,9
+Milk,Eggs,9
+Butter,Milk,10
+Butter,Bread,8
+Butter,Eggs,6
+Eggs,Milk,9
+Eggs,Bread,6
+Eggs,Butter,6
+Jam,Bread,4
+Jam,Eggs,4
+Jam,Butter,3
